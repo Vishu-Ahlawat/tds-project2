@@ -145,7 +145,7 @@ This report underscores the multifaceted nature of global well-being, revealing 
 
 ## Life Ladder_Log GDP per capita_scatterplot
 
-![Life Ladder_Log GDP per capita_scatterplot.png](./Life Ladder_Log GDP per capita_scatterplot.png)
+![Life_Ladder_Log_GDP_per_capita_scatterplot.png](./Life_Ladder_Log_GDP_per_capita_scatterplot.png)
 
 # The Interconnection of Happiness and Economic Prosperity: A Dive into Global Data
 
