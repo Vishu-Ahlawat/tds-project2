@@ -485,5 +485,3 @@ if __name__ == "__main__":
 
     # narrate story in README.md
     process_images_and_create_readme(df,dataset_file, api_key,headers_json)
-
-    #285,331,357,last
